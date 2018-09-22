@@ -1,0 +1,36 @@
+
+
+.header {
+  background-color: #000000;
+  color: #fff;
+  height: 200px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 70px;
+  padding: 38px 60px;
+}
+
+.header-list {
+  float: left;
+}
+
+/* header-listの中のli要素にのみ適用したいCSSを記述してください */
+.header-list li {
+  float: left;
+  padding: 33px 70px;
+}
+
+div{
+  font-family: cursive;
+}
+
+ul {
+  list-style: none;
+}
+
+
+h1{
+  font-size: 45px;
+}
